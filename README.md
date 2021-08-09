@@ -50,10 +50,13 @@
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/carolina-scudeler-5236691b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/carolina-scudeler-5236691b6/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/_scudeler/" target="_blank">
+  <a href="mailto:carolscudeler3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   
+  </a>
+  <a href="https://www.instagram.com/_scudeler/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">   
   </a>
 </div>
