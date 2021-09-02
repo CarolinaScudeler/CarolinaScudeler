@@ -6,8 +6,8 @@
 
 <ul>
   <li>I'm a brazilian software engineer with experience in <strong>front-end</strong> development.</li>
-  <li>Studying <strong>Analysis and Systems Development</strong>.</li>
-  <li>I currently work at <strong>Investflex</strong>.</li>
+  <li>Studying <strong>Analysis and Systems Development</strong> at <strong><a href="http://www.digitalschool.com.br/faculdade/">BandTec</a></strong>.</li>
+  <li>I currently work at <strong><a href="https://investflex.com.br/">InvestFlex</a></strong>.</li>
 </ul>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="gif-gato" width="20%" align="right">
