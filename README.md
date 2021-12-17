@@ -13,7 +13,7 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="gif-gato" width="20%" align="right">
 
 <div>
-  <a href="https://www.linkedin.com/in/carolina-scudeler-5236691b6/">
+  <a href="https://www.linkedin.com/in/carolina-scudeler/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:carolscudeler3@gmail.com">
