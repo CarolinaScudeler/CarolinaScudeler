@@ -6,7 +6,7 @@
 
 <ul>
   <li>I'm a brazilian software engineer with experience in <strong>front-end</strong> development.</li>
-  <li>Studying <strong>Analysis and Systems Development</strong> at <strong><a href="http://www.digitalschool.com.br/faculdade/">BandTec</a></strong>.</li>
+  <li>Studying <strong>Analysis and Systems Development</strong> at <strong><a href="https://www.sptech.school/">SPTECH</a></strong>.</li>
   <li>I currently work at <strong><a href="https://www.orama.com.br/">Órama Investimentos</a></strong>.</li>
 </ul>
 
