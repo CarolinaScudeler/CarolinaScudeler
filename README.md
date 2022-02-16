@@ -13,7 +13,7 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="gif-gato" width="20%" align="right">
 
 <div>
-  <a href="https://www.linkedin.com/in/carolina-scudeler/">
+  <a href="https://www.linkedin.com/in/carolinascudeler/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:carolscudeler3@gmail.com">
@@ -42,10 +42,6 @@
 <h3>💻 Studying</h3>
 
 <p>
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="web">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile">
-  <br><br>
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react-native">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/azure.svg" alt="azure">
