@@ -7,7 +7,6 @@
 <ul>
   <li>I'm a brazilian software engineer with experience in <strong>front-end</strong> development.</li>
   <li>Studying <strong>Analysis and Systems Development</strong> at <strong><a href="https://www.sptech.school/">SPTECH</a></strong>.</li>
-  <li>I currently work at <strong><a href="https://www.orama.com.br/">Órama Investimentos</a></strong>.</li>
 </ul>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="gif-gato" width="20%" align="right">
@@ -36,15 +35,6 @@
 
 <p>    
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_intellij.svg" alt="intellij">
-</p>
-
-<h3>💻 Studying</h3>
-
-<p>
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/azure.svg" alt="azure">
 </p>
 
 ##
