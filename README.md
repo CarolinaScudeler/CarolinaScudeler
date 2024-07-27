@@ -5,8 +5,7 @@
 <h3>My name is Carolina Scudeler</h3>
 
 <ul>
-  <li>I'm a brazilian software engineer with experience in <strong>front-end</strong> development.</li>
-  <li>Studying <strong>Analysis and Systems Development</strong> at <strong><a href="https://www.sptech.school/">SPTECH</a></strong>.</li>
+  <li>I'm a brazilian software engineer with experience in <strong>front-end</strong> development</li>
 </ul>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="gif-gato" width="20%" align="right">
